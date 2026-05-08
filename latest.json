@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.8",
-    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.5.8/FernanTopics-1.5.8.zip",
-    "sha256":  "3ee2ff3f09bffb34ed55f076825a1f543cf4a14c34e752c776a4926a11228cd5",
-    "notes":  "test final auto-update"
+    "version":  "1.6.0",
+    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.6.0/FernanTopics-1.6.0.zip",
+    "sha256":  "efc90acef45014c9e919704a0db9f3b4769541954a9e0cea69c905d4e5905cec",
+    "notes":  "Nuevo modal con barra de progreso y flujo más rápido"
 }
