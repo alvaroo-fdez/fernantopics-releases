@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.0",
-    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.6.0/FernanTopics-1.6.0.zip",
-    "sha256":  "efc90acef45014c9e919704a0db9f3b4769541954a9e0cea69c905d4e5905cec",
-    "notes":  "Nuevo modal con barra de progreso y flujo más rápido"
+    "version":  "1.6.2",
+    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.6.2/FernanTopics-1.6.2.zip",
+    "sha256":  "b1e1a76756a43748aa3ce7133c707c028d3a6fc8226a1f6bb73bed50dd19ccec",
+    "notes":  "fix: cert TLS corporativo via Electron net"
 }
