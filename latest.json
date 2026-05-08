@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.2",
-    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.6.2/FernanTopics-1.6.2.zip",
-    "sha256":  "b1e1a76756a43748aa3ce7133c707c028d3a6fc8226a1f6bb73bed50dd19ccec",
-    "notes":  "fix: cert TLS corporativo via Electron net"
+    "version":  "1.6.4",
+    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.6.4/FernanTopics-1.6.4.zip",
+    "sha256":  "795e1d92a11055c63eaa306663bf0a37297df9062f59635ab7c030b81668cf5c",
+    "notes":  "Redirect electron net"
 }
