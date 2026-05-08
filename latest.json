@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.4",
-    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.6.4/FernanTopics-1.6.4.zip",
-    "sha256":  "795e1d92a11055c63eaa306663bf0a37297df9062f59635ab7c030b81668cf5c",
-    "notes":  "Redirect electron net"
+    "version":  "1.6.6",
+    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.6.6/FernanTopics-1.6.6.zip",
+    "sha256":  "e594ec9f1463f0deb73f592b429e3f10038840574a91f671c9468b9d232d08a7",
+    "notes":  "Adjuntar versión de aplicación"
 }
