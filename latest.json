@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.5.4",
-    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.5.4/FernanTopics-1.5.4.zip",
-    "sha256":  "3f5b8edb9c197506ad483b6d143f03143b32336b6a322b2fbeb25edaf05ca725",
-    "notes":  "prueba auto-update"
+    "version":  "1.5.6",
+    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.5.6/FernanTopics-1.5.6.zip",
+    "sha256":  "0ff32692f3c0f256895755eaf1be2bb405b32eb4046c27b5e3955b4eeb5cafab",
+    "notes":  "test auto-update con logs"
 }
