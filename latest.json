@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.8",
-    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.6.8/FernanTopics-1.6.8.zip",
-    "sha256":  "857fafaf234fad01f622438da75cb7bad198e5df7af294f1cd2f9e722cab1839",
-    "notes":  "arreglo actualizador independiente"
+    "version":  "1.6.9",
+    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.6.9/FernanTopics-1.6.9.zip",
+    "sha256":  "afa639f21eb7e9a0a65ffda20a59f70c55c34eff357c80d395aed45189a683ff",
+    "notes":  "Prueba subida de versión"
 }
