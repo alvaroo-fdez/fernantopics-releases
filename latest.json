@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.9",
-    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.6.9/FernanTopics-1.6.9.zip",
-    "sha256":  "afa639f21eb7e9a0a65ffda20a59f70c55c34eff357c80d395aed45189a683ff",
-    "notes":  "Prueba subida de versión"
+    "version":  "1.7.0",
+    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.7.0/FernanTopics-1.7.0.zip",
+    "sha256":  "d991fff6f18bbec54aa2180fdd0ecb124183162ad2200c782580039d6918df97",
+    "notes":  "Arreglado contacto por teams"
 }
