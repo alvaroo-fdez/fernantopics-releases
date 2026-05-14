@@ -1,6 +1,6 @@
 {
-    "version":  "1.7.0",
-    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.7.0/FernanTopics-1.7.0.zip",
-    "sha256":  "d991fff6f18bbec54aa2180fdd0ecb124183162ad2200c782580039d6918df97",
-    "notes":  "Arreglado contacto por teams"
+    "version":  "1.7.1",
+    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.7.1/FernanTopics-1.7.1.zip",
+    "sha256":  "8d6ecb5255196094cff5172fa1fc6ef6faf1da3c6be0963ff1a6569faac1140e",
+    "notes":  "Actualizado Google Generative AI Leader"
 }
