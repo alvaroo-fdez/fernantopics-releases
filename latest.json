@@ -1,6 +1,6 @@
 {
-    "version":  "1.7.2",
-    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.7.2/FernanTopics-1.7.2.zip",
-    "sha256":  "1a2c47dea561ef7da039c26db93996a68c3b7c4fcd4e5dd66bd0a4bbabb95606",
-    "notes":  "FIX: Actualizador arreglado para rutas con caracteres no ASCII"
+    "version":  "1.7.3",
+    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.7.3/FernanTopics-1.7.3.zip",
+    "sha256":  "affe41bc71324b95805faea14dd02e73ec34217f36b0acc0e9ea7777f29d30a9",
+    "notes":  "Cambio visual de interfaz main + Optimización en navegación + Empresa ServiceNow con CSA"
 }
