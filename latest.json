@@ -1,6 +1,6 @@
 {
-    "version":  "1.7.3",
-    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.7.3/FernanTopics-1.7.3.zip",
-    "sha256":  "affe41bc71324b95805faea14dd02e73ec34217f36b0acc0e9ea7777f29d30a9",
-    "notes":  "Cambio visual de interfaz main + Optimización en navegación + Empresa ServiceNow con CSA"
+    "version":  "1.7.4",
+    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.7.4/FernanTopics-1.7.4.zip",
+    "sha256":  "bc63d028ac0449591aa3de2e2f8ae9d3797af09defe0f481abec707ba8d0a61c",
+    "notes":  "Añadidas certificaciones: Google Associate Workspace Administrator, ServiceNow Certified Application Developer (CAD) y actualizada AWS Certified CloudOps Engineer - Associate SOA-C03"
 }
