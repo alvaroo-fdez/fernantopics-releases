@@ -1,6 +1,6 @@
 {
-    "version":  "1.7.4",
-    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.7.4/FernanTopics-1.7.4.zip",
-    "sha256":  "bc63d028ac0449591aa3de2e2f8ae9d3797af09defe0f481abec707ba8d0a61c",
-    "notes":  "Añadidas certificaciones: Google Associate Workspace Administrator, ServiceNow Certified Application Developer (CAD) y actualizada AWS Certified CloudOps Engineer - Associate SOA-C03"
+    "version":  "1.7.5",
+    "url":  "https://github.com/alvaroo-fdez/fernantopics-releases/releases/download/v1.7.5/FernanTopics-1.7.5.zip",
+    "sha256":  "4877b1f67bc6f3de5126b3b5a4d702afd8558aef405f11734f79db5d5a2d3f5f",
+    "notes":  "Añadida certificación: Cisco 200-201"
 }
